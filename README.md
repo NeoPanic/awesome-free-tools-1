@@ -19,6 +19,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 ## Table of Contents
 
 - [Utilities and File Management](#utilities-and-file-management)
+- [Writing and Notes](#writing-and-notes)
 - [Design and UI](#design-and-ui)
 - [Photography and Image Editing](#photography-and-image-editing)
 - [Communication](#communication)
@@ -32,6 +33,13 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[Vert](https://vert.sh/)** | Fast, web-based file converter. Converts files locally using WebAssembly. | Free | Yes | No |
 | **[Blip](https://blip.net/)** | High-speed file sharing. Direct P2P transfer (Aspera/WeTransfer alternative). | Free (Personal) | No | Required |
 
+## Writing and Notes
+
+| Tool | Description | Pricing | Open Source | Account? |
+| :--- | :--- | :---: | :---: | :---: |
+| **[Obsidian](https://obsidian.md/)** | Powerful knowledge base that works on top of a local folder of plain text Markdown files. | Free (Personal) | No | No |
+| **[Mark Text](https://marktext.me/)** | Simple and elegant markdown editor focused on speed and usability. | Free | Yes | No |
+
 ## Design and UI
 
 | Tool | Description | Pricing | Open Source | Account? |
@@ -40,6 +48,8 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 | **[React Bits](https://reactbits.dev/)** | A collection of animated, interactive React components for modern UIs. | Free | Yes | No |
 
 ## Photography and Image Editing
+
+> **Tip:** For a more comprehensive list, check out [Awesome OpenSourcePhotography](https://github.com/ibaaj/awesome-OpenSourcePhotography).
 
 | Tool | Description | Pricing | Open Source | Account? |
 | :--- | :--- | :---: | :---: | :---: |
@@ -52,7 +62,7 @@ A curated list of high-quality, free, and open-source alternatives to popular pa
 
 | Tool | Description | Pricing | Open Source | Account? |
 | :--- | :--- | :---: | :---: | :---: |
-| **[Jitsi Meet](https://jitsi.org/meet)** | Fully encrypted, 100% open-source video conferencing. No install required. | Free | Yes | No |
+| **[Jitsi Meet](https://jitsi.org/)** | Fully encrypted, 100% open-source video conferencing. No install required. | Free | Yes | No |
 
 ---
 
